@@ -402,3 +402,18 @@ ul.slick-dots li button {
     font-size: 15px;
     text-decoration: none;
 }
+
+
+.rodape {
+    width: 100%;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 70px;
+    background-color: #a5ccd1;
+    align-items: center;
+    font-size: 17px;
+
+
+}
